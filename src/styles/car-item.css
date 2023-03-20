@@ -1,0 +1,21 @@
+.car__item{
+    border: 1px solid #7c8a9736; 
+    padding: 20px; 
+    border-radius: 5px;
+} 
+
+.car__item-info span i{
+    color: #f9a826; 
+    font-size: 1.1rem;
+} 
+
+.car__item-btn{
+    border-radius: 0;
+    border: none; 
+    outline: none;  
+    background: #000d6b;
+}
+
+.car__btn-details{
+    background: #f9a826;
+}

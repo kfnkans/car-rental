@@ -1,0 +1,310 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tesla",
+      "rating": 112,
+      "carName": "Tesla Malibu",
+      "imgUrl": "http://localhost:5000/images/nissan-offer.6eddc863.png",
+      "model": "Model 3",
+      "price": 50,
+      "speed": "20kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Heated seats",
+      "automatic": "Automatic",
+      "description": "The Tesla Malibu is a sleek and stylish electric car that offers a smooth ride with impressive acceleration. Equipped with advanced features like GPS navigation and heated seats, this car is perfect for drivers who want both comfort and high-tech capabilities. With a 112 rating, this Tesla model is a top performer in its class."
+    },
+    {
+      "id": 2,
+      "brand": "Toyota",
+      "rating": 102,
+      "carName": "Toyota Aventador",
+      "imgUrl": "http://localhost:5000/images/offer-toyota.4b2435e4.png",
+      "model": "Model-2022",
+      "price": 50,
+      "speed": "20kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Heated seats",
+      "automatic": "Automatic",
+      "description": "The Toyota Aventador is a sleek and stylish car that offers a smooth ride with impressive acceleration. Equipped with advanced features like GPS navigation and heated seats, this car is perfect for drivers who want both comfort and high-tech capabilities. With a 102 rating, this Toyota model is a top performer in its class."
+    },
+    {
+      "id": 3,
+      "brand": "BMW",
+      "rating": 132,
+      "carName": "BMW X3",
+      "imgUrl": "http://localhost:5000/images/bmw-offer.ecfb9ac1.png",
+      "model": "Model-2022",
+      "price": 65,
+      "speed": "20kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Heated seats",
+      "automatic": "Automatic",
+      "description": "The BMW X3 is a luxury compact SUV that offers a spacious and high-quality interior, along with excellent handling and strong engine performance. With its comfortable ride, advanced technology features, and attractive styling, the X3 is a great choice for those who want a luxurious and practical vehicle."
+    },
+    {
+      "id": 4,
+      "brand": "Nissan",
+      "rating": 102,
+      "carName": "Nissan Mercielago",
+      "imgUrl": "http://localhost:5000/images/nissan-offer.6eddc863.png",
+      "model": "Model-2022",
+      "price": 70,
+      "speed": "20kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Heated seats",
+      "automatic": "Automatic",
+      "description": "The Nissan Mercielago is a sleek and stylish sports car that offers impressive performance and handling. With its powerful engine, precise steering, and responsive brakes, this car is perfect for those who enjoy driving. Additionally, the Mercielago has a comfortable and well-appointed interior, making it a great choice for long trips or daily commutes."
+    },
+    {
+      "id": 5,
+      "brand": "Ferrari",
+      "rating": 94,
+      "carName": "Ferrari Camry",
+      "imgUrl": "http://localhost:5000/images/offer-toyota.4b2435e4.png",
+      "model": "Model-2022",
+      "price": 45,
+      "speed": "20kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Heated seats",
+      "automatic": "Automatic",
+      "description": "The Ferrari Camry is a luxury sedan that offers a comfortable and refined driving experience. With its powerful engine and smooth handling, this car is perfect for those who want a blend of performance and comfort. The Camry also features advanced safety and technology features, making it a great choice for families or anyone who wants the latest in automotive technology."
+    },
+    {
+      "id": 6,
+      "brand": "Mercedes",
+      "rating": 119,
+      "carName": "Mercedes Benz XC90",
+      "imgUrl": "http://localhost:5000/images/marcedes-offer.d177a4fe.png",
+      "model": "Model-2022",
+      "price": 85,
+      "speed": "20kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Heated seats",
+      "automatic": "Automatic",
+      "description": "The Mercedes Benz XC90 is a luxury SUV that offers a spacious and comfortable interior, along with impressive handling and strong engine performance. With its advanced safety features, advanced technology, and attractive styling, the XC90 is a great choice for families or anyone who wants a practical and luxurious vehicle."
+    },  
+    {
+      "id": 7,
+      "brand": "Audi",
+      "rating": 82,
+      "carName": "Audi Fiesta",
+      "imgUrl": "http://localhost:5000/images/offer-toyota.4b2435e4.png",
+      "model": "Model 3",
+      "price": 50,
+      "speed": "20kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Heated seats",
+      "automatic": "Automatic",
+      "description": "Get ready to enjoy luxury and comfort with the Audi Fiesta! Equipped with heated seats and GPS navigation, you can navigate the roads with ease and stay warm during the winter season. All of this can be yours for just 50 dollars."
+    },
+    {
+      "id": 8,
+      "brand": "Colorado",
+      "rating": 52,
+      "carName": "Rolls Royce Colorado",
+      "imgUrl": "http://localhost:5000/images/marcedes-offer.d177a4fe.png",
+      "model": "Model 3",
+      "price": 50,
+      "speed": "20kmpl",
+      "gps": "GPS Navigation",
+      "seatType": "Heated seats",
+      "automatic": "Automatic",
+      "description": "Experience the epitome of luxury with the Rolls Royce Colorado! Featuring heated seats and GPS navigation, you can enjoy a smooth ride in style. All of this can be yours for just 50 dollars."
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "title": "Car Battery",
+      "price": 150,
+      "category": "Battery",
+      "imgUrl": "http://localhost:5000/images/products/product-1.5fb206dc.jpg ",
+      "description": "Keep your car powered up with this reliable Car Battery. At just 150 dollars, it's an affordable solution to ensure that your vehicle runs smoothly."
+    },
+
+    {
+      "id": 2,
+      "title": "Car Disk",
+      "price": 50,
+      "category": "Disk ",
+      "imgUrl": "http://localhost:5000/images/products/product-2.184ea363.jpg ",
+      "description": "Upgrade your vehicle's braking system with this high-quality Car Disk. At just 50 dollars, it's a cost-effective way to improve your car's safety and performance."
+    },
+
+    {
+      "id": 3,
+      "title": "Luxury Seat",
+      "price": 390,
+      "category": "Seat",
+      "imgUrl": "http://localhost:5000/images/products/product-5.9d8bfbc6.jpg ",
+      "description": "Treat yourself to the ultimate driving experience with this luxurious car seat. Priced at 390 dollars, it's a premium upgrade that will make every drive feel like a first-class journey."
+    },
+
+    {
+      "id": 4,
+      "title": "Steering Wheel",
+      "price": 150,
+      "category": " Wheel",
+      "imgUrl": "http://localhost:5000/images/products/product-3.9af392b6.jpg ",
+      "description": "Get a better grip and feel for your vehicle with this Steering Wheel. At just 150 dollars, it's an affordable way to add a touch of style and comfort to your car."
+    },
+
+    {
+      "id": 5,
+      "title": " Absorber",
+      "price": 110,
+      "category": "Shock Absorber",
+      "imgUrl": "http://localhost:5000/images/products/product-4.226d5e08.jpg ",
+      "description": "Improve your car's handling and comfort with this Shock Absorber. Priced at 110 dollars, it's a smart investment that will make your drives smoother and more enjoyable."
+    },
+    
+    {
+      "id": 1,
+      "title": "Car Battery",
+      "price": 150,
+      "category": "Battery",
+      "imgUrl": "http://localhost:5000/images/products/product-1.5fb206dc.jpg ",
+      "description": "Keep your car powered up with this reliable Car Battery. At just 150 dollars, it's an affordable solution to ensure that your vehicle runs smoothly."
+    },
+
+    {
+      "id": 2,
+      "title": "Car Disk",
+      "price": 50,
+      "category": "Disk ",
+      "imgUrl": "http://localhost:5000/images/products/product-2.184ea363.jpg ",
+      "description": "Upgrade your vehicle's braking system with this high-quality Car Disk. At just 50 dollars, it's a cost-effective way to improve your car's safety and performance."
+    },
+
+    {
+      "id": 3,
+      "title": "Luxury Seat",
+      "price": 390,
+      "category": "Seat",
+      "imgUrl": "http://localhost:5000/images/products/product-5.9d8bfbc6.jpg ",
+      "description": "Treat yourself to the ultimate driving experience with this luxurious car seat. Priced at 390 dollars, it's a premium upgrade that will make every drive feel like a first-class journey."
+    },
+
+    {
+      "id": 4,
+      "title": "Steering Wheel",
+      "price": 150,
+      "category": " Wheel",
+      "imgUrl": "http://localhost:5000/images/products/product-3.9af392b6.jpg ",
+      "description": "Get a better grip and feel for your vehicle with this Steering Wheel. At just 150 dollars, it's an affordable way to add a touch of style and comfort to your car."
+    },
+
+    {
+      "id": 5,
+      "title": " Absorber",
+      "price": 110,
+      "category": "Shock Absorber",
+      "imgUrl": "http://localhost:5000/images/products/product-4.226d5e08.jpg ",
+      "description": "Improve your car's handling and comfort with this Shock Absorber. Priced at 110 dollars, it's a smart investment that will make your drives smoother and more enjoyable."
+    },
+    {
+      "id": 1,
+      "title": "Car Battery",
+      "price": 150,
+      "category": "Battery",
+      "imgUrl": "http://localhost:5000/images/products/product-1.5fb206dc.jpg ",
+      "description": "Keep your car running smoothly with this reliable Car Battery. Priced at 150 dollars, it's an affordable solution to ensure that your vehicle has the power it needs."
+    },
+
+    {
+      "id": 13,
+      "title": "Car Disk",
+      "price": 50,
+      "category": "Disk ",
+      "imgUrl": "http://localhost:5000/images/products/product-2.184ea363.jpg ",
+      "description": "Upgrade your vehicle's braking performance with this high-quality Car Disk. At just 50 dollars, it's a smart investment that will improve your car's safety and handling."
+    }
+  ],
+
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The best way to drive cars",
+      "author": "Pubilius",
+      "date": "12 Dec, 2020",
+      "time": "9pm",
+      "imgUrl": "http://localhost:5000/images/blog/blog-1.jpg ",
+      "description": "Learn how to drive your car like a pro with our helpful tips and tricks. Written by Pubilius, this informative article is a must-read for any car enthusiast.",
+      "quote": "Drive like a pro with our expert tips."
+    },
+
+    {
+      "id": 2,
+      "title": "If your car battery is down",
+      "author": "Pubilius",
+      "date": "22 Dec, 2020",
+      "time": "11am",
+      "imgUrl": "http://localhost:5000/images/blog/blog-2.jpg ",
+      "description": "Is your car battery giving you trouble? Follow Pubilius's expert advice on how to deal with a dead battery and get back on the road in no time.",
+      "quote": "Don't let a dead battery slow you down."
+    },
+
+    {
+      "id": 3,
+      "title": "The best way to give trip",
+      "author": "Pubilius",
+      "date": "25 Dec, 2020",
+      "time": "9pm",
+      "imgUrl": "http://localhost:5000/images/blog/blog-3.jpg",
+      "description": "Planning a road trip? Make the most of your journey with Pubilius's top tips on how to have a memorable and enjoyable trip.",
+      "quote": "Make every road trip a journey to remember."
+    }
+  ],
+
+  "services": [
+    {
+      "id": 1,
+      "title": "City Transfer",
+      "icon": "ri-map-pin-2-line",
+
+      "description": "Get around the city hassle-free with our reliable City Transfer service. Our experienced drivers will take you where you need to go safely and efficiently."
+    },
+
+    {
+      "id": 2,
+      "title": "Whole  City Tour",
+      "icon": "ri-community-line",
+
+      "description": "Discover the best of the city with our guided Whole City Tour. With knowledgeable guides and comfortable transportation, it's the perfect way to see it all."
+    },
+
+    {
+      "id": 3,
+      "title": "Unlimited Miles Car Rental",
+      "icon": "ri-roadster-line",
+
+      "description": "Take your travels to the next level with our Unlimited Miles Car Rental service. With no mileage restrictions, you can explore as much as you want without any extra costs."
+    },
+
+    {
+      "id": 4,
+      "title": "Fast & Easy Booking",
+      "icon": "ri-timer-flash-line",
+
+      "description": "Book your transportation quickly and easily with our Fast & Easy Booking system. We strive to make your travel experience as smooth and stress-free as possible."
+    },
+
+    {
+      "id": 5,
+      "title": "Many Pickup Locations",
+      "icon": "ri-map-pin-line",
+
+      "description": "With our convenient pickup locations throughout the city, you can easily access our top-notch transportation services no matter where you are."
+    },
+
+    {
+      "id": 6,
+      "title": "Airport Transfer",
+      "icon": "ri-flight-takeoff-line",
+
+      "description": "Start your trip off right with our reliable Airport Transfer service. We'll get you to and from the airport on time and with comfort and ease."
+    }
+  ]
+}
