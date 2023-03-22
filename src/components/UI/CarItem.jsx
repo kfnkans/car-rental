@@ -14,7 +14,7 @@ const CarItem = (props) => {
       </div>
    
       <div className="car__item-content mt-4">
-        <h4 className="section__title text-center">carName</h4> 
+        <h4 className="section__title text-center">{carName}</h4> 
         <h6 className="rent__price text-center">          
           ${price}.00 
           <span>/ Day</span> 
@@ -35,7 +35,7 @@ const CarItem = (props) => {
               <Link to={`/cars/${carName}`}>Rent</Link>
             </button>
             <button className="w-50 car__item-btn car__btn-details">
-              <Link to={`/cars/${carName}`}>Rent</Link>
+              <Link to={`/cars/${carName}`}>Details</Link>
             </button>
       </div> 
     </div>
